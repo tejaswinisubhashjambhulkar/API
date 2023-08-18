@@ -1,0 +1,7 @@
+D:\AllProjectVS2019\APIComman\APIComman\bin\APIComman.dll.config
+D:\AllProjectVS2019\APIComman\APIComman\bin\APIComman.dll
+D:\AllProjectVS2019\APIComman\APIComman\bin\APIComman.pdb
+D:\AllProjectVS2019\APIComman\APIComman\obj\Debug\APIComman.csproj.CoreCompileInputs.cache
+D:\AllProjectVS2019\APIComman\APIComman\obj\Debug\APIComman.dll
+D:\AllProjectVS2019\APIComman\APIComman\obj\Debug\APIComman.pdb
+D:\AllProjectVS2019\APIComman\APIComman\obj\Debug\APIComman.csprojAssemblyReference.cache
